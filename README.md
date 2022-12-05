@@ -24,17 +24,17 @@
 
 ## ☝️ Course Updates
 
-**[v1.0.0](https://github.com/Ditectrev/Professional-Scrum-Developer-I-PSD-I-Practice-Tests-Exams-Questions-Answers/releases/tag/v1.0.0): xx 12, 2023.**
+**[v1.0.0](https://github.com/Ditectrev/Professional-Scrum-Master-I-PSM-I-Practice-Tests-Exams-Questions-Answers/releases/tag/v1.0.0): xx 12, 2023.**
 
 - Launch of the course.
 
 ## 🙋‍♀️ & 🙋‍♂️ Contribution
 
-We are so thankful for every contribution, which makes sure we can deliver top-notch content. Whenever you find a missing resource, broken link in a [Table of Contents](https://github.com/Ditectrev/Professional-Scrum-Developer-I-PSD-I-Practice-Tests-Exams-Questions-Answers#table-of-contents), the wrong answer, please submit an [issue](https://github.com/Ditectrev/Professional-Scrum-Developer-I-PSD-I-Practice-Tests-Exams-Questions-Answers/issues). Even better would be a [Pull Request (PR)](https://github.com/Ditectrev/Professional-Scrum-Developer-I-PSD-I-Practice-Tests-Exams-Questions-Answers/pulls).
+We are so thankful for every contribution, which makes sure we can deliver top-notch content. Whenever you find a missing resource, broken link in a [Table of Contents](https://github.com/Ditectrev/Professional-Scrum-Master-I-PSM-I-Practice-Tests-Exams-Questions-Answers#table-of-contents), the wrong answer, please submit an [issue](https://github.com/Ditectrev/Professional-Scrum-Master-I-PSM-I-Practice-Tests-Exams-Questions-Answers/issues). Even better would be a [Pull Request (PR)](https://github.com/Ditectrev/Professional-Scrum-Master-I-PSM-I-Practice-Tests-Exams-Questions-Answers/pulls).
 
 ## Who this course is for:
 
-- 👨‍🎓 Students preparing for the Professional Scrum Developer I (PSD I) Exam;
+- 👨‍🎓 Students preparing for the Professional Scrum Master I (PSM I) Exam;
 - 👨‍🎓 Agile Coaches;
 - 👨‍🎓 Agile Leaders;
 - 👨‍🎓 DevOps Engineers;
@@ -52,7 +52,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - 🤩 Excitement to learn!
 - 0️⃣ Prior knowledge is required;
-- ✅ You can pass the Professional Scrum Developer I (PSD I) Exam solely based on our Practice Tests Exams.
+- ✅ You can pass the Professional Scrum Master I (PSM I) Exam solely based on our Practice Tests Exams.
 
 ## Table of Contents
 

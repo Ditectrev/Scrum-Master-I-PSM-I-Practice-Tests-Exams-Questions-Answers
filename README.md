@@ -58,7 +58,6 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 | No. | Questions |
 | --- | --------------------------- |
-
 | 1   | [You have just been hired by a company new to Scrum. Your management has assigned you to be the Scrum Master of six new Scrum Teams. These teams will build one product. Select two conditions you should strive for in this scenario.(Choose two.)](#question1) |
 | 2   | [A Scrum Team has been working on a product for nine Sprints. A new Product Owner comes in, understanding he is accountable for the Product Backlog. However, he is unsure about his responsibilities. Which two activities are part of the Product Owner role according to Scrum? (Choose two.)](#question2) |
 | 3   | [User documentation is part of your definition of "Done". However, there aren’t enough technical writers for all teams. Your Development Team doesn’t have a technical writer. What should you do?](#question3) |

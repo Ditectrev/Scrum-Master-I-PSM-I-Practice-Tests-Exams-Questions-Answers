@@ -20,7 +20,7 @@
 4. Questions are similar to the actual exam, without duplications (like in other courses ;-)).
 5. The Practice Tests Exams simulate the actual exam's content, timing, and percentage required to pass the exam.
 6. This course is **not** a Professional Scrum Master I (PSM I) Exam Dump. Some people use brain dumps or exam dumps, but that's absurd, which we don't practice.
-7. xxx **unique** questions.
+7. 248 **unique** questions.
 
 ## ☝️ Course Updates
 
@@ -2531,7 +2531,7 @@ Team to make a complete forecast. Then start the Sprint.
 
 ### When does a Sprint conclude?
 
-- [ ] When the Product Owner decides enough has been delivered to meet the Sprint Goal
+- [ ] When the Product Owner decides enough has been delivered to meet the Sprint Goal.
 - [x] When the Sprint Retrospective is complete.
 - [ ] When all the tasks are completed by the Developers.
 - [ ] When all Product Backlog items meet their Definition of Done.

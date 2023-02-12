@@ -1159,7 +1159,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which technique is the best way the Scrum Master can ensure that the Development Team communicates effectively with the Product Owner?
 
-- [ ] Monitor communications between them and facilitate direct collaboration.
+- [x] Monitor communications between them and facilitate direct collaboration.
 - [ ] Teach the Development Team to talk in terms of business needs and objectives.
 - [ ] Teach the Product Owner about the technologies employed during the Sprints.
 - [ ] Act as a go-between for them.
@@ -1552,7 +1552,7 @@ Team to make a complete forecast. Then start the Sprint.
 
 ### How should a Development Team deal with non-functional requirements?
 
-- [ ] Ensure every Increment meets them.
+- [x] Ensure every Increment meets them.
 - [ ] Make sure the release department understands these requirements, but it is not the Development Team’s responsibility.
 - [ ] Handle them during the Integration Sprint preceding the Release Sprint.
 - [ ] Assign them to the lead developers on the team.

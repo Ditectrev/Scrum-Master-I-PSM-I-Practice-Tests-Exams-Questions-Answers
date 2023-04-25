@@ -688,8 +688,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] It is used to congratulate the Development Team if it did what it forecast, or to punish the Development Team if it failed to meet its forecast.
 - [ ] It is a demo at the end of the Sprint for everyone in the organization to check on the work done.
-- [x] It is a mechanism to control the Development Team’s activities during a Sprint.
-- [ ] It is when the Scrum Team and stakeholders inspect the outcome of a Sprint and figure out what to do next.
+- [ ] It is a mechanism to control the Development Team’s activities during a Sprint.
+- [x] It is when the Scrum Team and stakeholders inspect the outcome of a Sprint and figure out what to do next.
 
 **[⬆ Back to Top](#table-of-contents)**
 

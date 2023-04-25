@@ -1055,8 +1055,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### A Scrum Master is essentially the same thing as a traditional PM (Project Manager).
 
-- [x] True.
-- [ ] False.
+- [ ] True.
+- [x] False.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -1525,8 +1525,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] Cancel the Sprint. Send the entire team to an advanced Scrum training and then start a new Sprint.
 - [x] Forecast the most likely Product Backlog items to meet the goal and create a Sprint Backlog based on a likely initial design and plan. Once the time-box for the Sprint Planning meeting is over, start the Sprint and continue to analyze,decompose, and create additional functionality during the Sprint.
-- [ ] Continue the Sprint Planning meeting past its time-box until an adequate number of Product Backlog items are well enough understood for the Development
-Team to make a complete forecast. Then start the Sprint.
+- [ ] Continue the Sprint Planning meeting past its time-box until an adequate number of Product Backlog items are well enough understood for the Development Team to make a complete forecast. Then start the Sprint.
 - [x] Discuss in the upcoming Sprint Retrospective why this happened and what changes will make it less likely to recur.
 - [ ] Ask everyone to take as much time as needed to analyze the Product Backlog first, and then reconvene another Sprint Planning meeting.
 

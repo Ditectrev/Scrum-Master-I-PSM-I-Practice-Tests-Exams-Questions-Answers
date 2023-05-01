@@ -870,8 +870,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### When is the Sprint Backlog created? (choose the best answer)
 
 - [ ] At the beginning of the project.
-- [ ] During the Sprint Planning meeting.
-- [x] Prior to the Sprint Planning meeting.
+- [x] During the Sprint Planning meeting.
+- [ ] Prior to the Sprint Planning meeting.
 - [ ] During the Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -1065,8 +1065,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### The Product Owner is not collaborating with the Development Team during the Sprint. What are two valuable actions for a Scrum Master to take? (choose two)
 
 - [ ] Inform the Product Owner’s functional manager.
-- [x] Stop the Sprint, send the Product Owner to a course and restart.
-- [ ] Bring up the problem in the Sprint Retrospective.
+- [ ] Stop the Sprint, send the Product Owner to a course and restart.
+- [x] Bring up the problem in the Sprint Retrospective.
 - [x] Coach the Product Owner in the values of Scrum and incremental delivery.
 - [ ] Nominate a proxy Product Owner.
 
@@ -1472,8 +1472,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Five new Scrum Teams have been created to build one product. A few of the developers on one of the Development Teams ask the Scrum Master how to coordinate their work with the order teams. What should the Scrum Master do?
 
 - [ ] Teach the Product Owner to work with the lead developers on ordering Product Backlog in a way to avoid too much technical and development overlap during a Sprint.
-- [ ] Teach them that it is their responsibility to work with the other teams to create an integrated increment.
-- [x] Collect the Sprint tasks from the teams at the end of their Sprint Planning and merge that into a consolidated plan for the entire Sprint.
+- [x] Teach them that it is their responsibility to work with the other teams to create an integrated increment.
+- [ ] Collect the Sprint tasks from the teams at the end of their Sprint Planning and merge that into a consolidated plan for the entire Sprint.
 - [ ] Visit the five teams each day to inspect that their Sprint Backlogs are aligned.
 
 **[⬆ Back to Top](#table-of-contents)**

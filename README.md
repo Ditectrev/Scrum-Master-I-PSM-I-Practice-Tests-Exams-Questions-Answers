@@ -2494,8 +2494,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### When does the next Sprint begin?
 
 - [ ] Next Monday.
-- [ ] Immediately after the conclusion of the previous Sprint
-- [x] Immediately following the next Sprint Planning.
+- [x] Immediately after the conclusion of the previous Sprint
+- [ ] Immediately following the next Sprint Planning.
 - [ ] When the Product Owner is ready.
 
 **[⬆ Back to Top](#table-of-contents)**

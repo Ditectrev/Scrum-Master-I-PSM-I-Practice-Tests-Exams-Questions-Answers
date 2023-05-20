@@ -242,7 +242,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 169 | [Select two ways in which technical debt impacts transparency. (choose two)](#select-two-ways-in-which-technical-debt-impacts-transparency-choose-two) |
 | 170 | [A Development Team is required to deliver a done Increment by the end of a Sprint. Select two statements that explain what “Done” means. (choose two)](#a-development-team-is-required-to-deliver-a-done-increment-by-the-end-of-a-sprint-select-two-statements-that-explain-what-done-means-choose-two) |
 | 171 | [Which of the following are true about the length of the Sprint? (choose two)](#which-of-the-following-are-true-about-the-length-of-the-sprint-choose-two) |
-| 172 | [Refer to the Exhibit: A network security engineer is troubleshooting intermittent connectivity issues across a tunnel. Based on the output from the show crypto ipsec sa command, which cause is most likely?](#refer-to-the-exhibit-a-network-security-engineer-is-troubleshooting-intermittent-connectivity-issues-across-a-tunnel-based-on-the-output-from-the-show-crypto-ipsec-sa-command-which-cause-is-most-likely) |
+| 172 | [PLACEHOLDER](#placeholder) |
 | 173 | [Developers include which role(s)?(pick all that apply)](#developers-include-which-roles) |
 | 174 | [The Sprint Backlog must be detailed enough that...](#the-sprint-backlog-must-be-detailed-enough-that) |
 | 175 | [The Scrum Master is accountable for the Product Backlog.](#the-scrum-master-is-accountable-for-the-product-backlog) |
@@ -1898,12 +1898,12 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Refer to the Exhibit: A network security engineer is troubleshooting intermittent connectivity issues across a tunnel. Based on the output from the show crypto ipsec sa command, which cause is most likely?
+### PLACEHOLDER
 
-- [ ] ISAKMP and/or IP sec may be bouncing up and down.
-- [x] The security association lifetimes are set to default values.
-- [ ] Return traffic is not coming back from the other end of the tunnel.
-- [ ] Traffic may flow in only one direction across this tunnel.
+- [ ] PLACEHOLDER.
+- [ ] PLACEHOLDER.
+- [ ] PLACEHOLDER.
+- [ ] PLACEHOLDER.
 
 **[⬆ Back to Top](#table-of-contents)**
 

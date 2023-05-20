@@ -311,7 +311,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 238 | [Who has the final say on the order of the Product Backlog?](#who-has-the-final-say-on-the-order-of-the-product-backlog) |
 | 239 | [Who should know the most about the progress toward a business objective or a release, and be able to explain the alternatives most clearly?(choose the best answer)](#who-should-know-the-most-about-the-progress-toward-a-business-objective-or-a-release-and-be-able-to-explain-the-alternatives-most-clearly) |
 | 240 | [Which of the following services is appropriate for a Scrum Master in regard to the Daily Scrum?(choose the best answer)](#which-of-the-following-services-is-appropriate-for-a-scrum-master-in-regard-to-the-daily-scrum) |
-| 241 | [The Developers should not be interrupted during the Sprint and the Sprint Goal should remain intact. These are conditions that foster creativity, quality and productivity.(Which one the following answers is FALSE?)](#the-developers-should-not-be-interrupted-during-the-sprint-and-the-sprint-goal-should-remain-intact-these-are-conditions-that-foster-creativity-quality-and-productivity) |
+| 241 | [The Developers should not be interrupted during the Sprint and the Sprint Goal should remain intact. These are conditions that foster creativity, quality and productivity. Which one of the following answers is FALSE?](#the-developers-should-not-be-interrupted-during-the-sprint-and-the-sprint-goal-should-remain-intact-these-are-conditions-that-foster-creativity-quality-and-productivity-which-one-of-the-following-answers-is-false) |
 | 242 | [When does the next Sprint begin?](#when-does-the-next-sprint-begin) |
 | 243 | [What are two ways a Scrum Master serves to enable effective Scrum Teams?(choose the best two answers)](#what-are-two-ways-a-scrum-master-serves-to-enable-effective-scrum-teams) |
 | 244 | [When multiple Scrum Teams work together on the same product, each team should maintain a separate Product Backlog.](#when-multiple-scrum-teams-work-together-on-the-same-product-each-team-should-maintain-a-separate-product-backlog) |
@@ -2482,11 +2482,11 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### The Developers should not be interrupted during the Sprint and the Sprint Goal should remain intact. These are conditions that foster creativity, quality and productivity.
+### The Developers should not be interrupted during the Sprint and the Sprint Goal should remain intact. These are conditions that foster creativity, quality and productivity. Which one of the following answers is FALSE?
 
 - [ ] The Product Owner can help clarify or optimize the Sprint when asked by the Developers.
-- [ ] The Developers may work with the Product Owner to add or remove work if they find themselves with more or less capacity than expected
-- [x] The Sprint Backiog is fully formulated in the Sprint Planning event and does not change during the Sprint
+- [ ] The Developers may work with the Product Owner to add or remove work if they find themselves with more or less capacity than expected.
+- [x] The Sprint Backiog is fully formulated in the Sprint Planning event and does not change during the Sprint.
 - [ ] As a decomposition of the selected Product Backlog items, the Sprint Backlog changes and may grow as the work emerges.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -2494,7 +2494,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### When does the next Sprint begin?
 
 - [ ] Next Monday.
-- [x] Immediately after the conclusion of the previous Sprint
+- [x] Immediately after the conclusion of the previous Sprint.
 - [ ] Immediately following the next Sprint Planning.
 - [ ] When the Product Owner is ready.
 

@@ -286,7 +286,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 213 | [What does the Sprint burn-down chart show?](#what-does-the-sprint-burn-down-chart-show)   |
 | 214 | [A new Developer joins the Scrum Team taking the total number to 11 people. As a Scrum Master, What should you do?](#a-new-developer-joins-the-scrum-team-taking-the-total-number-to-11-people-as-a-scrum-master-what-should-you-do)   |
 | 215 | [The Developers should have all the skills needed to:(choose the best answer)](#the-developers-should-have-all-the-skills-needed-to) |
-| 216 | [Which two things should the Scrum Team do during the first Sprint? (choose the best two answers)](#which-two-things-should-the-scrum-team-do-during-the-first-sprintchoose-the-best-two-answers) |
+| 216 | [Which two things should the Scrum Team do during the first Sprint? (choose the best two answers)](#which-two-things-should-the-scrum-team-do-during-the-first-sprint-choose-the-best-two-answers) |
 | 217 | [Who is on the Scrum Team?(choose the best three answers)](#who-is-on-the-scrum-teamchoose-the-best-three-answers) |
 | 218 | [The timebox for a Daily Scrum is?(choose the best answer)](#the-timebox-for-a-daily-scrum-is) |
 | 219 | [The three pillars of empiricism are:(choose the best answer)](#the-three-pillars-of-empiricism-are) |

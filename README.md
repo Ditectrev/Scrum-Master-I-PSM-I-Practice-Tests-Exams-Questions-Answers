@@ -1682,9 +1682,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### At the seventh Sprint Review, the stakeholders are disappointed and angry. They have determined that the product or system being built will not meet their needs and will cost more than they are willing to spend. What factors likely led to this? (choose two)
 
-- [x] The Project Management Office (PMO) has not been engaged adequately.
+- [ ] The Project Management Office (PMO) has not been engaged adequately.
 - [x] The Product Owner has not been keeping the stakeholders aware of the progress of the project.
-- [ ] The stakeholders haven’t been using the Sprint Reviews to inspect and evaluate progress.
+- [x] The stakeholders haven’t been using the Sprint Reviews to inspect and evaluate progress.
 - [ ] The stakeholders were not allowed to enter the development area.
 
 **[⬆ Back to Top](#table-of-contents)**

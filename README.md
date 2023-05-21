@@ -1126,8 +1126,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which phrase best describes a Product Owner?
 
-- [x] Go-between development team and customers.
-- [ ] Value optimizer.
+- [ ] Go-between development team and customers.
+- [x] Value optimizer.
 - [ ] Requirements engineer.
 - [ ] Team manager.
 

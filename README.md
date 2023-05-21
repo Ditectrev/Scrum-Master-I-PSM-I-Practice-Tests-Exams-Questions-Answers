@@ -1261,8 +1261,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] It controls whether the developers have performed their tasks.
 - [ ] It provides a template for elements that need to be included in the technical documentation.
 - [x] It creates transparency over the work inspected at the Sprint Review.
-- [x] It trucks the percent completeness of a Product Backlog item.
-- [ ] It guides the Development Team is creating a forecast at the Sprint Planning.
+- [ ] It trucks the percent completeness of a Product Backlog item.
+- [x] It guides the Development Team is creating a forecast at the Sprint Planning.
 - [x] It defines what it takes for an Increment to be ready for release.
 
 **[⬆ Back to Top](#table-of-contents)**

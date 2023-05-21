@@ -1271,9 +1271,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [x] Opportunities to insect and adapt the Sprint Backlog are lost.
 - [x] Impediments are raised and resolved more slowly.
-- [x] The Product Owner cannot accurately report progress to the stakeholders.
+- [ ] The Product Owner cannot accurately report progress to the stakeholders.
 - [ ] Too much work is spent updating the Scrum board before the meeting.
 - [ ] The Scrum Master loses the ability to update the Gantt chart properly.
+- [x] The Sprint Backlog may become inaccurate.
 
 **[⬆ Back to Top](#table-of-contents)**
 

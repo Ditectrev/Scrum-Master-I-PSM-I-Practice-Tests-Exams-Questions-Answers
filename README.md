@@ -186,7 +186,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 113 | [During a Sprint, when is new work or further decomposition of work added to the Sprint Backlog?](#during-a-sprint-when-is-new-work-or-further-decomposition-of-work-added-to-the-sprint-backlog) |
 | 114 | [What it the main reason for the Scrum Master to be at the Daily Scrum?](#what-it-the-main-reason-for-the-scrum-master-to-be-at-the-daily-scrum) |
 | 115 | [You have six teams using a traditional method to deliver a product. Your management has asked you to start using Scrum. In the initial project there were separate plans and teams for the layers of a software system, i.e. one for the frontend, one for the middle tier, one for the back-end, and one for the interfaces and services. This resembles what is known as component teams. But you have read that it’s a good idea to have teams organized by feature. What are the advantages of keeping component teams while starting Scrum?](#you-have-six-teams-using-a-traditional-method-to-deliver-a-product-your-management-has-asked-you-to-start-using-scrum-in-the-initial-project-there-were-separate-plans-and-teams-for-the-layers-of-a-software-system-ie-one-for-the-frontend-one-for-the-middle-tier-one-for-the-back-end-and-one-for-the-interfaces-and-services-this-resembles-what-is-known-as-component-teams-but-you-have-read-that-its-a-good-idea-to-have-teams-organized-by-feature-what-are-the-advantages-of-keeping-component-teams-while-starting-scrum) |
-| 116 | [A properly functioning Scrum Team will have at least one Release Sprint and may well have several.](#a-properly-functioning-scrum-team-will-have-at-least-one-release-sprint-and-may-well-have-several) |
+| 116 | [True or False: A properly functioning Scrum Team will have at least one Release Sprint and may well have several.](#true-or-false-a-properly-functioning-scrum-team-will-have-at-least-one-release-sprint-and-may-well-have-several) |
 | 117 | [Scrum is a methodology that tells in detail how to build software incrementally.](#scrum-is-a-methodology-that-tells-in-detail-how-to-build-software-incrementally) |
 | 118 | [For which is the Scrum Master responsible?](#for-which-is-the-scrum-master-responsible) |
 | 119 | [A Development Team asks their Product Owner to re-order the Product Backlog. The team is waiting for an external supplier to deliver a specific software component. Without that component there won’t be enough work in the next Sprint to occupy the full team. The Product Owner asks the Scrum Master for help. What would be good advice to give the Product Owner?](#a-development-team-asks-their-product-owner-to-re-order-the-product-backlog-the-team-is-waiting-for-an-external-supplier-to-deliver-a-specific-software-component-without-that-component-there-wont-be-enough-work-in-the-next-sprint-to-occupy-the-full-team-the-product-owner-asks-the-scrum-master-for-help-what-would-be-good-advice-to-give-the-product-owner) |
@@ -1382,10 +1382,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### A properly functioning Scrum Team will have at least one Release Sprint and may well have several.
+### True or False: A properly functioning Scrum Team will have at least one Release Sprint and may well have several.
 
-- [x] True.
-- [ ] False.
+- [ ] True.
+- [x] False.
 
 **[⬆ Back to Top](#table-of-contents)**
 

@@ -1425,8 +1425,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### What is the key concern when multiple Development Teams are working from the same Product Backlog?
 
-- [ ] Minimizing dependencies between teams.
-- [x] Clear definition of requirements.
+- [x] Minimizing dependencies between teams.
+- [ ] Clear definition of requirements.
 - [ ] Meeting original scope projections.
 - [ ] Making sure there’s enough work for everyone on every team.
 - [ ] Maximizing velocity.

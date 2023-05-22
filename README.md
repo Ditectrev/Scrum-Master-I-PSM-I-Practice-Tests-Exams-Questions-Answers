@@ -167,7 +167,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 94  | [Which technique is the best way the Scrum Master can ensure that the Development Team communicates effectively with the Product Owner?](#which-technique-is-the-best-way-the-scrum-master-can-ensure-that-the-development-team-communicates-effectively-with-the-product-owner)   |
 | 95  | [How much of the Sprint Backlog must be defined during the Sprint Planning event?](#how-much-of-the-sprint-backlog-must-be-defined-during-the-sprint-planning-event) |
 | 96  | [Who is responsible for managing the progress of work during a Sprint?](#who-is-responsible-for-managing-the-progress-of-work-during-a-sprint) |
-| 97  | [A Development Team is required to deliver a done increment by the end of a Sprint. Select two statements that explain what ‘done' means. (choose two)](#a-development-team-is-required-to-deliver-a-done-increment-by-the-end-of-a-sprint-select-two-statements-that-explain-what-‘done-means-choose-two) |
+| 97  | [PLACEHOLDER](#placeholder) |
 | 98  | [What two factors are best considered when establishing the Sprint length? (choose two.)](#what-two-factors-are-best-considered-when-establishing-the-sprint-length-choose-two) |
 | 99  | [Which of these may a Development Team deliver at the end of a Sprint?](#which-of-these-may-a-development-team-deliver-at-the-end-of-a-sprint) |
 | 100 | [Who creates a Product Backlog item's estimate?](#who-creates-a-product-backlog-items-estimate) |
@@ -196,7 +196,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 123 | [Which outcome is expected as Scrum Teams mature?](#which-outcome-is-expected-as-scrum-teams-mature) |
 | 124 | [The Product Owner must release each Increment to production.](#the-product-owner-must-release-each-increment-to-production) |
 | 125 | [Who creates the definition of "Done"?](#who-creates-the-definition-of-done) |
-| 126 | [Five new Scrum Teams have been created to build one product. A few of the developers on one of the Development Teams ask the Scrum Master how to coordinate their work with the order teams. What should the Scrum Master do?](#qfive-new-scrum-teams-have-been-created-to-build-one-product-a-few-of-the-developers-on-one-of-the-development-teams-ask-the-scrum-master-how-to-coordinate-their-work-with-the-order-teams-what-should-the-scrum-master-do) |
+| 126 | [Five new Scrum Teams have been created to build one product. A few of the developers on one of the Development Teams ask the Scrum Master how to coordinate their work with the order teams. What should the Scrum Master do?](#five-new-scrum-teams-have-been-created-to-build-one-product-a-few-of-the-developers-on-one-of-the-development-teams-ask-the-scrum-master-how-to-coordinate-their-work-with-the-order-teams-what-should-the-scrum-master-do) |
 | 127 | [Which two things should the Development Team do during the first Sprint? (choose two)](#which-two-things-should-the-development-team-do-during-the-first-sprint-choose-two) |
 | 128 | [Who determines when it is appropriate to update the Sprint Backlog during a Sprint?](#who-determines-when-it-is-appropriate-to-update-the-sprint-backlog-during-a-sprint) |
 | 129 | [Who must attend the Daily Scrum?](#who-must-attend-the-daily-scrum) |
@@ -218,7 +218,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 145 | [What techniques could the Scrum Master use when the Scrum Team gets caught in an internal disagreement about which agile practices to apply? (choose the best two answers)](#what-techniques-could-the-scrum-master-use-when-the-scrum-team-gets-caught-in-an-internal-disagreement-about-which-agile-practices-to-apply-choose-the-best-two-answers) |
 | 146 | [Who is accountable for clearly expressing Product Backlog items? (choose the best answer)](#who-is-accountable-for-clearly-expressing-product-backlog-items-choose-the-best-answer) |
 | 147 | [When many Scrum Teams are working on a single product, what best describes the Definition of Done? (choose the best answer)](#when-many-scrum-teams-are-working-on-a-single-product-what-best-describes-the-definition-of-done-choose-the-best-answer) |
-| 148 | [When many Development Teams are working on a single product, what best describes the definition of “Done”? (choose the best answer)](#when-many-development-teams-are-working-on-a-single-product-what-best-describes-the-definition-of-done-choose-the-best-answer) |
+| 148 | [When many Development Teams are working on a single product, what best describes the definition of "Done"? (choose the best answer)](#when-many-development-teams-are-working-on-a-single-product-what-best-describes-the-definition-of-done-choose-the-best-answer) |
 | 149 | [At the seventh Sprint Review, the stakeholders are disappointed and angry. They have determined that the product or system being built will not meet their needs and will cost more than they are willing to spend. What factors likely led to this? (choose two)](#at-the-seventh-sprint-review-the-stakeholders-are-disappointed-and-angry-they-have-determined-that-the-product-or-system-being-built-will-not-meet-their-needs-and-will-cost-more-than-they-are-willing-to-spend-what-factors-likely-led-to-this-choose-two) |
 | 150 | [When a Development Team determines that it will not be able to finish the complete forecast, who has to be present when reviewing and adjusting the Sprint work selected? (choose the best answer)](#when-a-development-team-determines-that-it-will-not-be-able-to-finish-the-complete-forecast-who-has-to-be-present-when-reviewing-and-adjusting-the-sprint-work-selected-choose-the-best-answer)   |
 | 151 | [As the Development Team starts work during the Sprint, it realizes it has selected too much work to finish in the Sprint. What should it do?](#as-the-development-team-starts-work-during-the-sprint-it-realizes-it-has-selected-too-much-work-to-finish-in-the-sprint-what-should-it-do)   |
@@ -240,7 +240,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 167 | [What is the recommended size for a Scrum Team? (choose the best answer)](#what-is-the-recommended-size-for-a-scrum-team-choose-the-best-answer)   |
 | 168 | [How do you know that a Development Team is cross-functional?](#how-do-you-know-that-a-development-team-is-cross-functional)   |
 | 169 | [Select two ways in which technical debt impacts transparency. (choose two)](#select-two-ways-in-which-technical-debt-impacts-transparency-choose-two) |
-| 170 | [A Development Team is required to deliver a done Increment by the end of a Sprint. Select two statements that explain what “Done” means. (choose two)](#a-development-team-is-required-to-deliver-a-done-increment-by-the-end-of-a-sprint-select-two-statements-that-explain-what-done-means-choose-two) |
+| 170 | [A Development Team is required to deliver a done Increment by the end of a Sprint. Select two statements that explain what "Done" means. (choose two)](#a-development-team-is-required-to-deliver-a-done-increment-by-the-end-of-a-sprint-select-two-statements-that-explain-what-done-means-choose-two) |
 | 171 | [Which of the following are true about the length of the Sprint? (choose two)](#which-of-the-following-are-true-about-the-length-of-the-sprint-choose-two) |
 | 172 | [PLACEHOLDER](#placeholder) |
 | 173 | [Developers include which role(s)?(pick all that apply)](#developers-include-which-roles) |
@@ -1197,13 +1197,12 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### A Development Team is required to deliver a done increment by the end of a Sprint. Select two statements that explain what ‘done' means. (choose two)
+### PLACEHOLDER
 
-- [ ] All work the Development Team is willing to do.
-- [ ] Ready for integration.
-- [x] No work left from the definition of "Done".
-- [ ] Whatever the Product Owner defines as quality.
-- [x] All work to create software that is ready to be released to end users.
+- [ ] PLACEHOLDER.
+- [ ] PLACEHOLDER.
+- [ ] PLACEHOLDER.
+- [ ] PLACEHOLDER.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -2549,4 +2548,3 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] When all Product Backlog items meet their Definition of Done.
 
 **[⬆ Back to Top](#table-of-contents)**
-

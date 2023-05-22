@@ -672,8 +672,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### The Scrum Master observes the Product Owner struggling with ordering the Product Backlog. What is an appropriate action for the Scrum Master to take? (choose the best answer)
 
 - [ ] Suggest the Product Owner extend the Sprint, so he can have more time to order the Product Backlog.
-- [x] Suggest that the Development Team does the ordering to be sure that it is a feasible ordering of work.
-- [ ] Offer the Product Owner help in understanding that the goal of ordering the Product Backlog is to maximize value.
+- [ ] Suggest that the Development Team does the ordering to be sure that it is a feasible ordering of work.
+- [x] Offer the Product Owner help in understanding that the goal of ordering the Product Backlog is to maximize value.
 - [ ] Present the Product Owner with an ordered Product Backlog to use.
 - [ ] Encourage the Product Owner to work with the Development Team to see which items technically are fastest to implement.
 

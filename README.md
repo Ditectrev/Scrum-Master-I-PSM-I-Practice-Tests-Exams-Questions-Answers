@@ -1526,7 +1526,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### In the Sprint Planning meeting, the Product Owner and the Development Team were unable to reach a clear understanding about the highest order Product Backlog items. Because of this, the Development Team couldn't figure out how many Product Backlog items it could forecast for the upcoming Sprint. They were able to agree on a Sprint Goal, however. Which of the following two actions should the Scrum Master support? (choose two)
 
 - [ ] Cancel the Sprint. Send the entire team to an advanced Scrum training and then start a new Sprint.
-- [x] Forecast the most likely Product Backlog items to meet the goal and create a Sprint Backlog based on a likely initial design and plan. Once the time-box for the Sprint Planning meeting is over, start the Sprint and continue to analyze,decompose, and create additional functionality during the Sprint.
+- [x] Forecast the most likely Product Backlog items to meet the goal and create a Sprint Backlog based on a likely initial design and plan. Once the time-box for the Sprint Planning meeting is over, start the Sprint and continue to analyze, decompose, and create additional functionality during the Sprint.
 - [ ] Continue the Sprint Planning meeting past its time-box until an adequate number of Product Backlog items are well enough understood for the Development Team to make a complete forecast. Then start the Sprint.
 - [x] Discuss in the upcoming Sprint Retrospective why this happened and what changes will make it less likely to recur.
 - [ ] Ask everyone to take as much time as needed to analyze the Product Backlog first, and then reconvene another Sprint Planning meeting.
@@ -2485,7 +2485,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] The Product Owner can help clarify or optimize the Sprint when asked by the Developers.
 - [ ] The Developers may work with the Product Owner to add or remove work if they find themselves with more or less capacity than expected.
-- [x] The Sprint Backiog is fully formulated in the Sprint Planning event and does not change during the Sprint.
+- [x] The Sprint Backlog is fully formulated in the Sprint Planning event and does not change during the Sprint.
 - [ ] As a decomposition of the selected Product Backlog items, the Sprint Backlog changes and may grow as the work emerges.
 
 **[⬆ Back to Top](#table-of-contents)**

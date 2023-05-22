@@ -733,11 +733,11 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which three purposes does the definition of "Done" serve? (choose the best three answers)
 
-- [ ] Guide the Development Team on how many Product Backlog items to select for the Sprint.
+- [x] Guide the Development Team on how many Product Backlog items to select for the Sprint.
 - [x] Create a shared understanding of when work is complete.
-- [x] Describe the purpose, objective, and time-box of each Scrum event.
-- [x] Describe the work that must be done before the Sprint is allowed to end.
-- [ ] Increase transparency.
+- [ ] Describe the purpose, objective, and time-box of each Scrum event.
+- [ ] Describe the work that must be done before the Sprint is allowed to end.
+- [x] Increase transparency.
 
 **[⬆ Back to Top](#table-of-contents)**
 

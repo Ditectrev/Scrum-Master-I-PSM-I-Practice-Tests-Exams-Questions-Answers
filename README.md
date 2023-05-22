@@ -153,7 +153,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 80  | [Which two ways of creating Development Teams are consistent with Scrum’s values? (choose two)](#which-two-ways-of-creating-development-teams-are-consistent-with-scrums-values-choose-two)   |
 | 81  | [A Scrum Master is essentially the same thing as a traditional PM (Project Manager).](#a-scrum-master-is-essentially-the-same-thing-as-a-traditional-pm-project-manager)   |
 | 82  | [The Product Owner is not collaborating with the Development Team during the Sprint. What are two valuable actions for a Scrum Master to take? (choose two)](#the-product-owner-is-not-collaborating-with-the-development-team-during-the-sprint-what-are-two-valuable-actions-for-a-scrum-master-to-take-choose-two)   |
-| 83  | [Multiple Scrum Teams working on the same product or system all select work from the same Product Backlog.](#multiple-scrum-teams-working-on-the-same-product-or-system-all-select-work-from-the-same-product-backlog)   |
+| 83  | [True or False: Multiple Scrum Teams working on the same product or system all select work from the same Product Backlog.](#true-or-false-multiple-scrum-teams-working-on-the-same-product-or-system-all-select-work-from-the-same-product-backlog)   |
 | 84  | [For the purpose of transparency, when does Scrum say a new increment of working software must be available?](#for-the-purpose-of-transparency-when-does-scrum-say-a-new-increment-of-working-software-must-be-available)   |
 | 85  | [Multiple Scrum Teams working on the same project must have the same Sprint start date.](#multiple-scrum-teams-working-on-the-same-project-must-have-the-same-sprint-start-date)   |
 | 86  | [During a Sprint Retrospective, for what is the Product Owner responsible?](#during-a-sprint-retrospective-for-what-is-the-product-owner-responsible)   |
@@ -1072,7 +1072,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Multiple Scrum Teams working on the same product or system all select work from the same Product Backlog.
+### True or False: Multiple Scrum Teams working on the same product or system all select work from the same Product Backlog.
 
 - [x] True.
 - [ ] False.

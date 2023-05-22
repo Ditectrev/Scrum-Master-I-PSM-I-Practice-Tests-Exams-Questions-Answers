@@ -424,10 +424,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which statement best describes the Sprint Backlog as outcome of the Sprint Planning?
 
-- [x] It is a complete list of all work to be done in a Sprint.
+- [ ] It is a complete list of all work to be done in a Sprint.
 - [ ] Every item has a designated owner.
 - [ ] Each task is estimated in hours.
-- [ ] It is the Development Team’s plan for the Sprint.
+- [x] It is the Development Team’s plan for the Sprint.
 - [ ] It is ordered by the Product Owner.
 
 **[⬆ Back to Top](#table-of-contents)**

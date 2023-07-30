@@ -2,7 +2,7 @@
 
 ![Promotional image](images/promotional.png)
 
-[![Join our Discord](images/discord.png 'Join our Discord'){:target="_blank"}](https://discord.gg/RFjtXKfJy3)
+[![Join our Discord](images/discord.png 'Join our Discord')](https://discord.gg/RFjtXKfJy3)
 
 ## Udemy & Etsy
 

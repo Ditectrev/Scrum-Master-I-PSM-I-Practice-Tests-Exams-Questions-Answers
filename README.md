@@ -2,8 +2,6 @@
 
 ![Promotional image](images/promotional.png)
 
-[![Join our Discord](images/discord.png 'Join our Discord')](https://discord.gg/RFjtXKfJy3)
-
 ## Udemy & Etsy
 
 ❣️ Please support us by purchasing this course on Udemy in an interactive version with the [discounted link](https://www.udemy.com/course/professional-scrum-master-i-psm-i-practice-tests-exams/?referralCode=AE50158A452A3EAB8A7E). If you're working for a company, you could most probably easily claim this expense during preparation for your exam. For us, it's to be, or not to be, in the game.
@@ -13,6 +11,8 @@
 ## ✨ This course is unlike any Professional Scrum Master I (PSM I) course you will find online.
 
 ✋ Join a live online community and a course taught by industry experts and pass the Professional Scrum Master I (PSM I) confidently. We aim to build an ecosystem of Information Technology (IT) certifications and online courses in cooperation with the technology industry. We believe it will give our students 100% confidence in the pacing market in an open-source environment. We are just at the beginning of our way, so it's even better for you to join now!
+
+[![Join our Discord](images/discord.png 'Join our Discord')](https://discord.gg/RFjtXKfJy3)
 
 ## ⌛️ Short and to the point; why should you take the course:
 

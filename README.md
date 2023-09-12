@@ -190,7 +190,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 111 | [As the Sprint Planning meeting progresses, the Development Team sees that the workload is greater than they can handle. Which two are valid actions? (choose two)](#as-the-sprint-planning-meeting-progresses-the-development-team-sees-that-the-workload-is-greater-than-they-can-handle-which-two-are-valid-actions-choose-two) |
 | 112 | [Currently, your Development Teams are organized to address a single layer only (for example, front end, middle tier, back end, and interfaces). What are three things to consider when deciding to move away from such component teams toward feature teams? (choose three)](#currently-your-development-teams-are-organized-to-address-a-single-layer-only-for-example-front-end-middle-tier-back-end-and-interfaces-what-are-three-things-to-consider-when-deciding-to-move-away-from-such-component-teams-toward-feature-teams-choose-three) |
 | 113 | [During a Sprint, when is new work or further decomposition of work added to the Sprint Backlog?](#during-a-sprint-when-is-new-work-or-further-decomposition-of-work-added-to-the-sprint-backlog) |
-| 114 | [What it the main reason for the Scrum Master to be at the Daily Scrum?](#what-it-the-main-reason-for-the-scrum-master-to-be-at-the-daily-scrum) |
+| 114 | [What is the main reason for the Scrum Master to be at the Daily Scrum?](#what-is-the-main-reason-for-the-scrum-master-to-be-at-the-daily-scrum) |
 | 115 | [You have six teams using a traditional method to deliver a product. Your management has asked you to start using Scrum. In the initial project there were separate plans and teams for the layers of a software system, i.e. one for the frontend, one for the middle tier, one for the back-end, and one for the interfaces and services. This resembles what is known as component teams. But you have read that it's a good idea to have teams organized by feature. What are the advantages of keeping component teams while starting Scrum?](#you-have-six-teams-using-a-traditional-method-to-deliver-a-product-your-management-has-asked-you-to-start-using-scrum-in-the-initial-project-there-were-separate-plans-and-teams-for-the-layers-of-a-software-system-ie-one-for-the-frontend-one-for-the-middle-tier-one-for-the-back-end-and-one-for-the-interfaces-and-services-this-resembles-what-is-known-as-component-teams-but-you-have-read-that-its-a-good-idea-to-have-teams-organized-by-feature-what-are-the-advantages-of-keeping-component-teams-while-starting-scrum) |
 | 116 | [True or False: A properly functioning Scrum Team will have at least one Release Sprint and may well have several.](#true-or-false-a-properly-functioning-scrum-team-will-have-at-least-one-release-sprint-and-may-well-have-several) |
 | 117 | [Scrum is a methodology that tells in detail how to build software incrementally.](#scrum-is-a-methodology-that-tells-in-detail-how-to-build-software-incrementally) |
@@ -1364,7 +1364,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What it the main reason for the Scrum Master to be at the Daily Scrum?
+### What is the main reason for the Scrum Master to be at the Daily Scrum?
 
 - [ ] To gather status and progress information to report to management.
 - [ ] To write down any changes to the Sprint Backlog, including adding new items, and tracking progress on the burn-down.

@@ -1269,7 +1269,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### The Daily Scrum is an event that happens every day. What would be three key concerns if the frequency were to be lowered to every two or three days? (choose three)
 
-- [x] Opportunities to insect and adapt the Sprint Backlog are lost.
+- [x] Opportunities to inspect and adapt the Sprint Backlog are lost.
 - [x] Impediments are raised and resolved more slowly.
 - [ ] The Product Owner cannot accurately report progress to the stakeholders.
 - [ ] Too much work is spent updating the Scrum board before the meeting.

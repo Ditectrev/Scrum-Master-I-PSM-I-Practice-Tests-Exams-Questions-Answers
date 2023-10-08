@@ -1,4 +1,4 @@
-# ⬆️ Professional Scrum Master I (PSM I) Practice Tests Exams Questions & Answers
+# ⬆️ Scrum Master I for PSM I Practice Tests Exams Questions & Answers
 
 ![Promotional image](images/promotional.png)
 
@@ -8,7 +8,7 @@
 
 🛍️ Alternatively, you can buy the PDF with those questions on [Etsy](https://ditectrev.etsy.com/listing/1429943635).
 
-## ✨ This course is unlike any Professional Scrum Master I (PSM I) course you will find online.
+## ✨ This course is unlike any Scrum Master I for PSM I course you will find online.
 
 ✋ Join a live online community and a course taught by industry experts and pass the Professional Scrum Master I (PSM I) confidently. We aim to build an ecosystem of Information Technology (IT) certifications and online courses in cooperation with the technology industry. We believe it will give our students 100% confidence in the pacing market in an open-source environment. We are just at the beginning of our way, so it's even better for you to join now!
 
@@ -2553,3 +2553,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] When all Product Backlog items meet their Definition of Done.
 
 **[⬆ Back to Top](#table-of-contents)**
+
+#### Legal Information and Disclaimer
+
+*Scrum.org • Professional Scrum • Applying Professional Scrum • Professional Scrum Foundations • Professional Scrum Master • Professional Scrum Product Owner • Professional Scrum Developer • Scaled Professional Scrum • Professional Agile Leadership • Professional Agile Leadership - Essentials • Professional Scrum with Kanban • Professional Scrum with User Experience • Professional Scrum Facilitation Skills • Professional Scrum Product Backlog Management Skills • Professional Scrum Trainer • Professional Training Network • Evidence Based Management • Guided Learning Platform • Professional Scrum Guide • Scrum Pulse • ScrumPulse • Scrum Tapas • PSF • APS • PSM • PSPO • PSD • SPS • PAL-E • PSK • PSU • PSF Skills • PSPBM Skills • PST • PSG • GLP • PTN • EBM • EBMngt along with respective Design Marks, are protected brands of Scrum.org. This course is neither endorsed nor affiliated with Scrum.org.*

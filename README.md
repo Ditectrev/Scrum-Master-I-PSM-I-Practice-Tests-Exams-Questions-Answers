@@ -592,8 +592,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### If two Scrum Teams are added to the development of a product that previously had only one Scrum Team, what will be the immediate impact on the productivity of the original Scrum Team? (choose the best answer)
 
-- [ ] Its productivity is likely to decrease.
-- [x] Its productivity is likely to stay the same.
+- [x] Its productivity is likely to decrease.
+- [ ] Its productivity is likely to stay the same.
 - [ ] Its productivity is likely to increase.
 
 **[⬆ Back to Top](#table-of-contents)**

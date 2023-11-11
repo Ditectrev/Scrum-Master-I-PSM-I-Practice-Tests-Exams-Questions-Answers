@@ -146,7 +146,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 63  | [Which of the following best describes an increment of working software?](#which-of-the-following-best-describes-an-increment-of-working-software-choose-the-best-answer)   |
 | 64  | [In order to achieve the benefits of Scrum, it is important to enact the value of commitment. What two actions demonstrate the commitment of Scrum Team members?](#in-order-to-achieve-the-benefits-of-scrum-it-is-important-to-enact-the-value-of-commitment-what-two-actions-demonstrate-the-commitment-of-scrum-team-members-choose-the-best-two-answers)   |
 | 65  | [The Product Owner determines how many Product Backlog items the Development Team selects for a Sprint. (choose the best answer)](#the-product-owner-determines-how-many-product-backlog-items-the-development-team-selects-for-a-sprint-choose-the-best-answer)   |
-| 66  | [PLACEHOLDER](#placeholder)   |
+| 66  | [PLACEHOLDER 1](#placeholder-1)   |
 | 67  | [The Sprint Review is mainly an inspect and adapt opportunity for which group?](#the-sprint-review-is-mainly-an-inspect-and-adapt-opportunity-for-which-group)   |
 | 68  | [To get started in terms of what to build, Scrum requires no more than a Product Owner with enough ideas for a first Sprint, a Development Team to implement those ideas and a Scrum Master to help guide the process.](#to-get-started-in-terms-of-what-to-build-scrum-requires-no-more-than-a-product-owner-with-enough-ideas-for-a-first-sprint-a-development-team-to-implement-those-ideas-and-a-scrum-master-to-help-guide-the-process)   |
 | 69  | [What is the time-box for the Sprint Review?](#what-is-the-time-box-for-the-sprint-review)   |
@@ -177,7 +177,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 94  | [Which technique is the best way the Scrum Master can ensure that the Development Team communicates effectively with the Product Owner?](#which-technique-is-the-best-way-the-scrum-master-can-ensure-that-the-development-team-communicates-effectively-with-the-product-owner)   |
 | 95  | [How much of the Sprint Backlog must be defined during the Sprint Planning event?](#how-much-of-the-sprint-backlog-must-be-defined-during-the-sprint-planning-event) |
 | 96  | [Who is responsible for managing the progress of work during a Sprint?](#who-is-responsible-for-managing-the-progress-of-work-during-a-sprint) |
-| 97  | [PLACEHOLDER](#placeholder) |
+| 97  | [PLACEHOLDER 2](#placeholder-2) |
 | 98  | [What two factors are best considered when establishing the Sprint length? (choose two.)](#what-two-factors-are-best-considered-when-establishing-the-sprint-length-choose-two) |
 | 99  | [Which of these may a Development Team deliver at the end of a Sprint?](#which-of-these-may-a-development-team-deliver-at-the-end-of-a-sprint) |
 | 100 | [Who creates a Product Backlog item's estimate?](#who-creates-a-product-backlog-items-estimate) |
@@ -252,7 +252,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 169 | [Select two ways in which technical debt impacts transparency. (choose two)](#select-two-ways-in-which-technical-debt-impacts-transparency-choose-two) |
 | 170 | [A Development Team is required to deliver a done Increment by the end of a Sprint. Select two statements that explain what "Done" means. (choose two)](#a-development-team-is-required-to-deliver-a-done-increment-by-the-end-of-a-sprint-select-two-statements-that-explain-what-done-means-choose-two) |
 | 171 | [Which of the following are true about the length of the Sprint? (choose two)](#which-of-the-following-are-true-about-the-length-of-the-sprint-choose-two) |
-| 172 | [PLACEHOLDER](#placeholder) |
+| 172 | [PLACEHOLDER 3](#placeholder-3) |
 | 173 | [Developers include which role(s)?(pick all that apply)](#developers-include-which-roles) |
 | 174 | [The Sprint Backlog must be detailed enough that...](#the-sprint-backlog-must-be-detailed-enough-that) |
 | 175 | [The Scrum Master is accountable for the Product Backlog.](#the-scrum-master-is-accountable-for-the-product-backlog) |
@@ -380,7 +380,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### What happens if the Development Team cannot complete its work by the end of the Sprint?
 
-- [ ]  The Sprint is extended and future Sprints use this new duration.
+- [ ] The Sprint is extended and future Sprints use this new duration.
 - [x] The Sprint length holds and the Development Team continuously learns what is actually possible to do within a Sprint of this length.
 - [ ] The Sprint is extended temporarily. Lessons are taken to ensure it doesn't happen again.
 
@@ -927,7 +927,12 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### PLACEHOLDER
+### PLACEHOLDER 1
+
+- [ ] PLACEHOLDER.
+- [ ] PLACEHOLDER.
+- [ ] PLACEHOLDER.
+- [ ] PLACEHOLDER.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -1202,7 +1207,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### PLACEHOLDER
+### PLACEHOLDER 2
 
 - [ ] PLACEHOLDER.
 - [ ] PLACEHOLDER.
@@ -1903,7 +1908,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### PLACEHOLDER
+### PLACEHOLDER 3
 
 - [ ] PLACEHOLDER.
 - [ ] PLACEHOLDER.
@@ -2251,7 +2256,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### The Developers should have all the skills needed to:
 
 - [ ] Complete the project as estimated when the date and cost are committed to the Product Owner.
-- [x] Turn the Product Backlog items they select into an Increment of useful andvaluable product functionality.
+- [x] Turn the Product Backlog items they select into an Increment of useful and valuable product functionality.
 - [ ] Do all of the development work, except for specialized testing that requires additional tools and environments.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -2386,7 +2391,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] Identify and remove people that are not working hard enough
 - [ ] Monitor the progress of the Developers on the Scrum Team
-- [x] Support the Product Owner with insights and information into high value product and system capabilties. Support the Scrum Master to encourage organizational change that fosters empiricism, self-management, bottom-up intelligence, and intelligent product delivery.
+- [x] Support the Product Owner with insights and information into high value product and system capabilities. Support the Scrum Master to encourage organizational change that fosters empiricism, self-management, bottom-up intelligence, and intelligent product delivery.
 - [ ] Continually monitor staffing levels of the Scrum Team.
 
 **[⬆ Back to Top](#table-of-contents)**

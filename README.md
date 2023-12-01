@@ -1121,7 +1121,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Marian is the Product Owner envisioning a project for a new release of her product. She made a projection of a release date based upon a sustained velocity of 17 completed units of work per Sprint. Over the first 3 Sprints, the average velocity was 13 for work that the Development Team estimated as 90% done. The Development Teams, feeling the need to meet the plan, figured that a velocity of 17 was within their reach. A good way to continue is:
 
-- [x] The Development Team makes sure that all of the selected scope per Sprint is as "Done" as possible. The undone work is estimated and added to the Sprint
+- [x] The Development Team makes sure that all of the selected scope per Sprint is as "Done" as possible. The undone work is estimated and added to the Sprint Backlog of the next Sprint, so it doesn't mess up the Product Backlog.
 - [ ] Add enough people to the Development Team for the deadline to be made.
 - [ ] The opportunity to inspect and adapt is lost. Opaqueness has replaced transparency. Predictability has dropped below zero. The produced software is not usable. As the rules of Scrum have not been respected, it is the Scrum Master's duty to assess whether repair is possible, or a restart with a more reliable team. If not, the Scrum Master should cancel the project.
 - [ ] The Development Team should remind Marian to find funding for enough Release Sprints in which the remaining work can be done.

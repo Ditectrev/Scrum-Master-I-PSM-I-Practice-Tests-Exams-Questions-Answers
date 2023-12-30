@@ -2026,8 +2026,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Among the Developers, there is nobody with significant testing expertise. They should...
 
 - [ ] Request for a specialist tester to join them and queue testing for them to do when they arrive in a later Sprint.
-- [x] Produce an Increment that will be tested by a dedicated test team after the Sprint to guarantee the quality.
-- [ ] Raise this as an impediment which may require the assistance of the Scrum Master to resolve.
+- [ ] Produce an Increment that will be tested by a dedicated test team after the Sprint to guarantee the quality.
+- [x] Raise this as an impediment which may require the assistance of the Scrum Master to resolve.
 - [x] Quality is the responsibility of the Developers and they should undertake testing themselves to the best of their abilities.
 
 **[⬆ Back to Top](#table-of-contents)**

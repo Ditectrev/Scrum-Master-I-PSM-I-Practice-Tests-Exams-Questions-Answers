@@ -1952,8 +1952,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### A Scrum Team uses 2 weeks Sprints and time box their Sprint Planning to 6 hours. Does this break the rules of Scrum?
 
-- [x] False.
-- [ ] True.
+- [ ] False.
+- [x] True.
 
 **[⬆ Back to Top](#table-of-contents)**
 

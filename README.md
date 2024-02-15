@@ -743,8 +743,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### A new developer is having continuing conflicts with existing Development Team members and creating the hostile environment. If necessary, who is responsible for removing the team member? (choose the best answer)
 
 - [ ] The hiring manager is responsible, because he/she hired the developer.
-- [x] The Scrum Manager is responsible, because he/she removes Impediments.
-- [ ] The Development Team is responsible, and may need help from the Scrum Master.
+- [ ] The Scrum Manager is responsible, because he/she removes Impediments.
+- [x] The Development Team is responsible, and may need help from the Scrum Master.
 - [ ] The Product Owner is responsible, because he/she controls the return on investment (ROI).
 
 **[⬆ Back to Top](#table-of-contents)**

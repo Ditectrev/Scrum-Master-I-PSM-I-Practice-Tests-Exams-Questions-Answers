@@ -59,7 +59,7 @@
 
 - Fix minor typos and 1 question with wrong answer.
 
-**[v1.1.4](../../releases/tag/v1.1.3): March 2, 2024.**
+**[v1.1.4](../../releases/tag/v1.1.4): March 2, 2024.**
 
 - Fix minor typos and 1 question with wrong answer.
 

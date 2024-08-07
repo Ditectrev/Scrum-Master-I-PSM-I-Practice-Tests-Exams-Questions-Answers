@@ -63,6 +63,10 @@
 
 - Fix minor typos and 1 question with wrong answer.
 
+**[v1.1.4](../../releases/tag/v1.1.4): August 7, 2024.**
+
+- AI-generated explanations (only paid [Udemy](https://www.udemy.com/course/professional-scrum-master-i-psm-i-practice-tests-exams/?referralCode=AE50158A452A3EAB8A7E)).
+
 ## 🙋‍♀️ & 🙋‍♂️ Contribution
 
 We are so thankful for every contribution, which makes sure we can deliver top-notch content. Whenever you find a missing resource, broken link in a [Table of Contents](../..#table-of-contents), the wrong answer, please submit an [issue](../../issues). Even better would be a [Pull Request (PR)](../../pulls).

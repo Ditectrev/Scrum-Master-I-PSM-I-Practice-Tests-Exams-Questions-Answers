@@ -2051,8 +2051,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] Request for a specialist tester to join them and queue testing for them to do when they arrive in a later Sprint.
 - [ ] Produce an Increment that will be tested by a dedicated test team after the Sprint to guarantee the quality.
-- [x] Raise this as an impediment which may require the assistance of the Scrum Master to resolve.
-- [x] Quality is the responsibility of the Developers and they should undertake testing themselves to the best of their abilities.
+- [ ] Raise this as an impediment which may require the assistance of the Scrum Master to resolve.
+- [X] Quality is the responsibility of the Developers and they should undertake testing themselves to the best of their abilities.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -2226,8 +2226,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] The Business Analyst.
 - [ ] Stakeholders.
-- [x] The Developers, with support from the Product Owner who is still accountable for it.
-- [x] The Product Owner.
+- [X] The Developers, with support from the Product Owner who is still accountable for it.
+- [ ] The Product Owner.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -2573,8 +2573,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### The Scrum Team must choose at least one high priority process improvement item, identified during the Sprint Retrospective, and place it in the Sprint Backlog.
 
-- [ ] True.
-- [x] False.
+- [X] True.
+- [ ] False.
 
 **[⬆ Back to Top](#table-of-contents)**
 

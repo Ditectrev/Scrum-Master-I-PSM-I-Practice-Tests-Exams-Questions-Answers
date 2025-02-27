@@ -48,7 +48,7 @@ There are many ways to support us; in exchange, you'll get this material in a pr
 4. Questions are similar to the actual exam, without duplications (like in other courses ;-)).
 5. The Practice Tests Exams simulate the actual exam's content, timing, and percentage required to pass the exam.
 6. This course is **not** a Scrum Master I (PSM I) Exam Dump. Some people use brain dumps or exam dumps, but that's absurd, which we don't practice.
-7. 245 **unique** questions.
+7. 250 **unique** questions.
 
 ## ☝️ Course Updates
 
@@ -358,6 +358,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 246 | [Which are characteristics of the Daily Scrum? (choose the best two answers)](#which-are-characteristics-of-the-daily-scrum-choose-the-best-two-answers)) |
 | 247 | [True or False: The Scrum Team must choose at least one high priority process improvement item, identified during the Sprint Retrospective, and place it in the Sprint Backlog.](#true-or-false-the-scrum-team-must-choose-at-least-one-high-priority-process-improvement-item-identified-during-the-sprint-retrospective-and-place-it-in-the-sprint-backlog) |
 | 248 | [When does a Sprint conclude?](#when-does-a-sprint-conclude) |
+| 249 | [When must a Scrum Team release each Increment?](#when-must-a-scrum-team-release-each-increment) |
+| 250 | [Which of the following is an example of an Increment?](#which-of-the-following-is-an-example-of-an-increment) |
 
 ### You have just been hired by a company new to Scrum. Your management has assigned you to be the Scrum Master of six new Scrum Teams. These teams will build one product. Select two conditions you should strive for in this scenario. (choose two)
 
@@ -2599,5 +2601,16 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] After every Sprint, without exception.
 - [ ] Whenever the product is free of defects.
 - [x] When it makes sense to release it.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which of the following is an example of an Increment?
+
+- [ ] A plan for the overall product release.
+- [ ] A mock-up of the product marketing materials.
+- [ ] A design for the product.
+- [ ] A product roll-out plan.
+- [x] A valuable, useful set of product features.
+- [ ] All of the above.
 
 **[⬆ Back to Top](#table-of-contents)**

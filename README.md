@@ -25,6 +25,7 @@ There are many ways to support us; in exchange, you'll get this material in a pr
 
 It's great to learn these questions as your exam preparation, and, yes, you should pass just based on that. However, we highly recommend more interactive learning if you want to become an expert. Currently, we're recommending those courses:
 
+- 🎬 [Coursera: video-based, official course by IBM](https://imp.i384100.net/e1Pz11).
 - 📖 [Educative: text-based, video-free course, including set up out-of-the-box for you Cloud Labs to practice hands-on without the need to set up an environment (and payments). The link includes the highest available discount Educative offers](https://www.educative.io/courses/learn-agile-methodologies-from-scratch?aff=VALz).
 
 Yes, we have a little commission from that link. Therefore, by using that link, you're supporting us.
@@ -90,7 +91,11 @@ Yes, we have a little commission from that link. Therefore, by using that link, 
 
 **[v1.2.0](../../releases/tag/v1.2.0): April 16, 2025.**
 
-Update outdated terminology, and add 5 new questions.
+- Update outdated terminology, and add 5 new questions.
+
+**[v1.2.1](../../releases/tag/v1.2.1): August 20, 2025.**
+
+- Fix 3 typos and 1 question with a duplicated answer.
 
 ## 🙋‍♀️ & 🙋‍♂️ Contribution
 
